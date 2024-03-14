@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/rajeshkumar18052000?logo=github&sty
 
 # Badges 
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
+[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile]((https://www.holopin.io/@rajeshkumar18052000))](https://www.holopin.io/@rajeshkumar18052000)
 
 <b>My GitHub Stats</b>
 
