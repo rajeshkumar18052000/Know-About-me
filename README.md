@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4> Web developer | Inten MERN Stack</h4>
 
-- 🔭 I’m currently working on Full StackDeveloper and MERN and ML Project as an Intern
+- 🔭 I’m currently working on Full Stack Developer and MERN and ML Project as an Intern
 - 🌱 I’m Interested to work on Web 2.0, Web 3.0 and Application Development
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
