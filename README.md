@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4> Web developer | Inten MERN Stack</h4>
 
-- 🔭 I’m currently working on MERN Project as Intern
+- 🔭 I’m currently working on Full StackDeveloper and MERN and ML Project as an Intern
 - 🌱 I’m Interested to work on Web 2.0, Web 3.0 and Application Development
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: rajeshkumar1809753@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+- ⚡ Fun fact: I'm currently studying M. Tech Computer Science
 
 <a href="https://www.github.com/rajeshkumar18052000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rajeshkumar18052000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
